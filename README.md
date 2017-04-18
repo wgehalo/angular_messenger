@@ -1,2 +1,2 @@
 Just a project to learn angular better.
-Testing git vs code intergration here.
+Testing git vs code integration here.
